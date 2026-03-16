@@ -22,6 +22,6 @@ chmod +x openfoam-docker
 After that you can activate docker using the OpenFOAM folder.
 
 ```
-./openfoam-docker -dir=OpenFOAM
+./openfoam-docker -dir=OpenFOAM -default
 ```
 
